@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container"> 
-    <h1>DevOps CI/CD Pipeline with docker via jenkins </h1>
+    <h1>DevOps CI/CD Pipeline with docker via  </h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
